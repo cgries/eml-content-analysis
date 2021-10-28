@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Analyze EML Content
+description: R code examples for analyzing metadata content
+production_url: https://cgries.github.io/eml-content-analysis/
+logo: /assets/img/edi-logo-svg.png
